@@ -1,7 +1,7 @@
 # 
 
 Реализация древовидного меню на Django
-# **tree_menu**
+# **app_menu**
 
 ТЗ 
 ```
@@ -30,7 +30,7 @@
 1. Клонируйте репозиторий и перейдите в него в командной строке:
 
 ```
-git clone https://github.com/artyom-vah/tree_menu.git
+git clone git@github.com:Bobteen/For_UpTrader.git
 ```
 
 2. Установите и активируйте виртуальное окружение
